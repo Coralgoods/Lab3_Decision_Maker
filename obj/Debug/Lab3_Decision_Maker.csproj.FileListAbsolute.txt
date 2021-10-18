@@ -1,0 +1,6 @@
+/Users/eduardodiaz/Documents/Prework/Lab3_Decision_Maker/obj/Debug/Lab3_Decision_Maker.csproj.AssemblyReference.cache
+/Users/eduardodiaz/Documents/Prework/Lab3_Decision_Maker/obj/Debug/Lab3_Decision_Maker.csproj.CoreCompileInputs.cache
+/Users/eduardodiaz/Documents/Prework/Lab3_Decision_Maker/bin/Debug/Lab3_Decision_Maker.exe
+/Users/eduardodiaz/Documents/Prework/Lab3_Decision_Maker/bin/Debug/Lab3_Decision_Maker.pdb
+/Users/eduardodiaz/Documents/Prework/Lab3_Decision_Maker/obj/Debug/Lab3_Decision_Maker.exe
+/Users/eduardodiaz/Documents/Prework/Lab3_Decision_Maker/obj/Debug/Lab3_Decision_Maker.pdb
